@@ -30,7 +30,7 @@ public class Exercicio1 {
     public static void meses() {
 
         System.out.println("Digite um numero de 1 a 12");
-        System.out.println("TESTEEEEEEEEEE");
+        System.out.println("GUSTAVOOOOOOO");
 
         int n = leia.nextInt();
         String mes = "";
